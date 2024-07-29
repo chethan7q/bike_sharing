@@ -1,4 +1,4 @@
-# Bike Sharing Case Study
+# Bike Sharing Case Study UPGRAD
 > Outline a brief description of your project.
 
 
